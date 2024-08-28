@@ -12,7 +12,7 @@
   </ol>
 
 ## About The Project
-<img src="[https://github.com/saurabh2121/weather-app/image/Screenshot.png](https://github.com/saurabh2121/weather-app/image/Screenshot.png)">
+<img src="https://github.com/saurabh2121/weather-app/blob/main/images/Screenshot.png">
 A simple and responsive Weather web app built using HTML, CSS and Javascript. It uses <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to fetch Temperature, Weather, Humidity & Wind Speed details. It uses <a href="https://opencagedata.com/api">OpenCageData Geocoder API</a> to fetch exact location coordinates of the user.
 
 ### Built With
